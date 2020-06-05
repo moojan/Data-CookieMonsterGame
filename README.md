@@ -1,5 +1,5 @@
 # Data-CookieMonsterGame
-Data paper: 
+Data for paper: 
 
 Moojan Ghafurian, David Reitter, and Frank E. Ritter. 2020. 
 Countdown Timer Speed: A Trade-off between Delay Duration Perception and Recall. 
